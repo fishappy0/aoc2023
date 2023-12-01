@@ -2,11 +2,11 @@
 
 ### My solutions 💅 to AOC puzzles🎄🎄🎄!!
 
-Day solved so far
-[X] Day 1
-[ ] Day 2
-[ ] Day 3
-[ ] Day 4
-[ ] Day 5
-[ ] Day 6
-[ ] Day 7
+Day solved so far: <br>
+[✅] Day 1<br>
+[ ] Day 2<br>
+[ ] Day 3<br>
+[ ] Day 4<br>
+[ ] Day 5<br>
+[ ] Day 6<br>
+[ ] Day 7<br>
